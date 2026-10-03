@@ -26,6 +26,10 @@ Status lines state what an official register said on the date shown. They were c
 
 Recheck a species before publishing and before any product page goes live. No donation or conservation funding claim is made anywhere on the site.
 
+## Look
+
+Pastel palette (pink, sage, chartreuse, blue, violet, a little yellow) is set as custom properties at the top of `css/styles.css`. Each plate sits on one of the tints. The botanical line drawings in `images/botanical/` are original SVGs, placed behind the content as `.deco` images. Their positions are set per section in the stylesheet.
+
 ## Images
 
 Product images are cropped from the supplied renders in `images/`. The `-detail` files are crops of the stitching taken at the render's native size, so they soften when enlarged. Replace them with macro photographs when available, keeping the file names.
